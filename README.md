@@ -1,2 +1,8 @@
 # LoveTree
-a LoveTree for your girlfriend based HTML5
+这是一棵为女朋友准备的爱情树，基于HTML5技术实现。
+
+#声明
+本项目全部的源代码来自网络，不代表我的任何观点和立场，最终解释权归该项目原作者所有，请大家在使用这个项目的时候注意！
+
+#演示
+[Demo](http://qinyuanpei.com/LoveTree/)
